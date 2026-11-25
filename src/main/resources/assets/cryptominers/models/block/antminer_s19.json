@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "cryptominers:block/antminer_s19_top",
+    "front": "cryptominers:block/antminer_s19_front",
+    "side": "cryptominers:block/antminer_s19_side"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.cryptominers": "ماینرهای رمزارز",
+  "block.cryptominers.exchange": "صرافی رمزارز",
+  "item.cryptominers.exchange": "صرافی رمزارز",
+  "item.cryptominers.minecoin": "ماین‌کوین",
+  "item.cryptominers.redcoin": "رد‌کوین",
+  "item.cryptominers.dragoncoin": "دراگون‌کوین",
+  "item.cryptominers.online_terminal": "ترمینال صرافی آنلاین",
+  "block.cryptominers.antminer_s9": "Antminer S9",
+  "block.cryptominers.antminer_s19": "Antminer S19",
+  "block.cryptominers.antminer_s21": "Antminer S21",
+  "block.cryptominers.whatsminer_m30": "Whatsminer M30",
+  "block.cryptominers.whatsminer_m50": "Whatsminer M50",
+  "block.cryptominers.whatsminer_m60": "Whatsminer M60",
+  "block.cryptominers.coal_generator": "ژنراتور زغالی",
+  "item.cryptominers.coal_generator": "ژنراتور زغالی"
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.cryptominers": "Crypto Miners",
+  "block.cryptominers.exchange": "Crypto Exchange",
+  "item.cryptominers.exchange": "Crypto Exchange",
+  "item.cryptominers.minecoin": "MineCoin",
+  "item.cryptominers.redcoin": "RedCoin",
+  "item.cryptominers.dragoncoin": "DragonCoin",
+  "item.cryptominers.online_terminal": "Online Terminal",
+  "block.cryptominers.antminer_s9": "Antminer S9",
+  "block.cryptominers.antminer_s19": "Antminer S19",
+  "block.cryptominers.antminer_s21": "Antminer S21",
+  "block.cryptominers.whatsminer_m30": "Whatsminer M30",
+  "block.cryptominers.whatsminer_m50": "Whatsminer M50",
+  "block.cryptominers.whatsminer_m60": "Whatsminer M60",
+  "block.cryptominers.coal_generator": "Coal Generator",
+  "item.cryptominers.coal_generator": "Coal Generator"
+}

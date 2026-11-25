@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cryptominers:antminer_s9",
+    "cryptominers:antminer_s19",
+    "cryptominers:antminer_s21",
+    "cryptominers:whatsminer_m30",
+    "cryptominers:whatsminer_m50",
+    "cryptominers:whatsminer_m60",
+    "cryptominers:exchange"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "cryptominers:block/whatsminer_m30_top",
+    "front": "cryptominers:block/whatsminer_m30_front",
+    "side": "cryptominers:block/whatsminer_m30_side"
+  }
+}
